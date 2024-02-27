@@ -1,0 +1,3 @@
+D:/PACMAIN/school/lop12CTIN/ComputerScience/Autonomous_Car/arduino_i2c_protocol/pico_master/build/pioasm/CMakeFiles/pioasm.dir
+D:/PACMAIN/school/lop12CTIN/ComputerScience/Autonomous_Car/arduino_i2c_protocol/pico_master/build/pioasm/CMakeFiles/edit_cache.dir
+D:/PACMAIN/school/lop12CTIN/ComputerScience/Autonomous_Car/arduino_i2c_protocol/pico_master/build/pioasm/CMakeFiles/rebuild_cache.dir
